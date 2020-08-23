@@ -3,7 +3,7 @@ This is a simple React project to learn concepts of react hooks
 This is mobile web app
 
 
-# start app
+## Spin up the development server
 `npm start`
 
 # Using mock API
